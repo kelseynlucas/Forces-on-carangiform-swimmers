@@ -34,6 +34,4 @@ Python scripts
 
 	assemble_fish_data_for_stats_fctns_v2.py - custom data aggregation functions called by the above
 
-R scripts
 
-	Lucas.etal_stats.Rmd - code used to perform statistical analyses
